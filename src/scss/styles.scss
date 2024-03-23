@@ -30,8 +30,19 @@ header {
   background-size: cover;
 }
 
-// text
+// jumbotron text
 .jumbotron {
   font-style: normal;
   text-align: center;
+}
+
+// footer
+.footer-text {
+  font-style: bold;
+  text-align: center;
+}
+
+// caption
+figcaption {
+  font-style: italic;
 }
